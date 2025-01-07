@@ -162,8 +162,10 @@
 
 | Company | Role | Skills | Year |
 |---------|------|--------|------|
-| Google Developer Student Clubs - HCMIU | Full Stack Member | Figma, React, NextJS, JavaScript, NodeJS, MongoDB | 2023 |
-| Google Developer Student Clubs - HCMIU | Full Stack Academic Leader | Figma, React, React Native, NextJS, Dart, Flutter, JavaScript, NodeJS, MongoDB | 2023 |
+| Google Developer Student Clubs - HCMIU | Full Stack Member | Figma, React, NextJS, JavaScript, NodeJS, MongoDB | 2023-2024 |
+| Google Developer Student Clubs - HCMIU | Full Stack Academic Leader | Figma, React, React Native, NextJS, Dart, Flutter, JavaScript, NodeJS, MongoDB | Jan 2024 - Present |
+| MIDIS Lab - Parcel Locker Project | Full Stack Developer | Node JS, React, React Native, Expo, FastAPI Express, MongoDB | Mar 2024 - Present |
+| EVN Tien Giang (Contract) | Full Stack Developer | Node JS, React, Express | Oct 2024 - Present |
 
 ------
 
