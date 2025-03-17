@@ -163,14 +163,14 @@
 | Company | Role | Skills | Year |
 |---------|------|--------|------|
 | Google Developer Student Clubs - HCMIU | Full Stack Member | Figma, React, NextJS, JavaScript, NodeJS, MongoDB | 2023-2024 |
-| Google Developer Student Clubs - HCMIU | Full Stack Academic Leader | Figma, React, React Native, NextJS, Dart, Flutter, JavaScript, NodeJS, MongoDB | Jan 2024 - Present |
-| MIDIS Lab - Parcel Locker Project | Full Stack Developer | Node JS, React, React Native, Expo, FastAPI Express, MongoDB | Mar 2024 - Present |
-| EVN Tien Giang (Contract) - Light Management System | Full Stack Developer | Node JS, React, Express | Oct 2024 - Present |
+| Google Developer Student Clubs - HCMIU | Full Stack Academic Leader | Figma, React, React Native, NextJS, Dart, Flutter, JavaScript, NodeJS, MongoDB | Jan 2024 - Mar 2025 |
+| MIDIS Lab - Parcel Locker Project | Full Stack Developer | Node JS, React, React Native, Expo, FastAPI Express, MongoDB | Mar 2024 - Feb 2025 |
+| EVN Tien Giang (Contract) - Light Management System | Full Stack Developer | Node JS, React, Express | Oct 2024 - Feb 2025 |
 
 ------
 ### 5.1 Products
 
-- **Studyon.app:** A productivity application developed in collaboration with [hoangvu12](https://github.com/hoangvu12). The app focuses on enhancing study habits and time management for students.
+- **Studyon.app:** A productivity application developed in collaboration with [hoangvu12](https://github.com/hoangvu12). The app focuses on enhancing study process for students.
 - **Parcel Locker:** A parcel locker system developed by MIDIS Lab Located in HCMIU.
 
 ------
